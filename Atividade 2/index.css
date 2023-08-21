@@ -1,8 +1,71 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-.div1{
+/* Estilo do Header - Fixo no Topo */
+header {
+    background-color: #f1f1f1;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 3;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+}
+
+.progress-container {
+    background: #eeeeee;
+    height: 5px;
+    width: 100%;
+}
+
+/* A barra de progresso */
+.progress-bar {
+    background: #2196f3;
+    height: 4px;
+    width: 0%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.div__geral{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.div__lado{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 5%;
+    margin-top: 7%;
+}
+.div__texto1{
+    margin-right: 3%
+}
+.div__img{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.img1 {
+    width: 400px;
+    height: 300px;
+}
+.styled-list li {
+    padding: 10px;
+    transition: background-color 0.3s ease; /* Adicionando uma transição suave */
+ } 
+ .styled-list li:hover {
+    background-color: #f2f2f2; /* Altere para a cor que desejar no hover */
+ }
+.div__texto2 {
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    flex-direction: column;
 }
