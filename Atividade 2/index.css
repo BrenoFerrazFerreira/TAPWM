@@ -29,12 +29,7 @@ header {
 
 body {
     font-family: 'Roboto', sans-serif;
-}
-.div__geral{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
+    margin: 0;
 }
 .div__lado{
     display: flex;
@@ -42,6 +37,7 @@ body {
     flex-direction: row;
     margin: 5%;
     margin-top: 7%;
+    margin-bottom: 2%;
 }
 .div__texto1{
     margin-right: 3%
@@ -68,4 +64,22 @@ body {
     margin-right: 5%;
     display: flex;
     flex-direction: column;
+    margin-bottom: 2%;
+}
+.img2 {
+    width: 750px;
+}
+.titulo {
+    font-size: 1.6em; 
+    font-weight: 400; 
+    letter-spacing: -0.015em;
+    font-weight: bold;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #2195f379;
+    color: white;
 }
