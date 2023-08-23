@@ -1,0 +1,10 @@
+C:\Users\0031432312025\Desktop\TAPW\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\0031432312025\Desktop\TAPW\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\0031432312025\Desktop\TAPW\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\0031432312025\Desktop\TAPW\PClasses\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\0031432312025\Desktop\TAPW\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\0031432312025\Desktop\TAPW\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\0031432312025\Desktop\TAPW\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\0031432312025\Desktop\TAPW\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\0031432312025\Desktop\TAPW\PClasses\PClasses\obj\Debug\PClasses.pdb
+C:\Users\0031432312025\Desktop\TAPW\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
